@@ -1,2 +1,2 @@
-/home/antonio/hola/platforms/android/CordovaLib/ant-build/AndroidManifest.xml : \
-/home/antonio/hola/platforms/android/CordovaLib/AndroidManifest.xml \
+/home/antonio/GitHubDevelopments/hola--mundo/platforms/android/CordovaLib/ant-build/AndroidManifest.xml : \
+/home/antonio/GitHubDevelopments/hola--mundo/platforms/android/CordovaLib/AndroidManifest.xml \
